@@ -153,7 +153,6 @@ export default {
 			}
 		}
 	},
-	"version": 1,
 	"fonts": {
 		"Roboto": {
 			"family": "Roboto",
@@ -176,5 +175,6 @@ export default {
 				]
 			}
 		}
-	}
+	},
+	"version": 8
 }
